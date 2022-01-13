@@ -87,4 +87,4 @@ Para colocar o projeto para rodar, basta seguir o passo a passo fornecido logo a
 
 Este projeto esta sob a [MIT license](LICENSE) para mais detalhes.
 <br />
-<br /
+<br />
